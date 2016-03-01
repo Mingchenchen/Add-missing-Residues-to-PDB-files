@@ -1,5 +1,4 @@
-# Missing-Residue-
-Add missing residues to pdb files
+#Add missing residues to pdb files
 
 The following programs will help in generating missing residues from pdb files. 
 Before running the programs, install Modeller(https://salilab.org/modeller/) and python. Modeller is freely available.
