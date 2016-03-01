@@ -9,10 +9,14 @@ Run the program if the following series.
 2. second.pl (based on Perl)
 3. mod9.16 third.py (require Modeller and Python) 
 4. perl final.pl 
-
-Example to run if the protein is 1ajq
-
+Make sure your programs and pdb files are in same folder
+Example to run if the PDB Id is "1ajq"
+Go to command line and run them in series(do not add .pdb if not mentioned)
 1. mod9.16 first.py 1ajq
 2. second.pl 1ajq
 3. mod9.16 third.py(open the program and modify a bit. Instructions are given in program).
 4. perl final.pl 1ajq new.pdb (a final pdb file with name new.pdb will be created).
+
+The new.pdb file will be a complete pdb file with no missing residues.
+
+Write to me if you face any problem.
